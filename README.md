@@ -2,7 +2,7 @@
 
 ## Estudiante: Jose Luis Carbone
 ![mi foto](Joselo.jpg)
-![GitHub Logo](LeviBoke.jpeg)
+
 
 ## Jugador de Hanball pero mejor jugador de Uno. :black_joker: 
 
